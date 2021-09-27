@@ -10,4 +10,4 @@
   - [Link Of Bacon Hair Bot](https://top.gg/bot/848572095101272084)
   - [For discordbotlist.com User](https://discordbotlist.com/bots/bacon-hair-bot)
 ## Website!
- - [Link](https://bacon-hair-bot.glitch.me/)
+ - [Link](https://www.baconhairbot.ml/)
