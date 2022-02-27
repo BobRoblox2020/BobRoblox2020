@@ -1,5 +1,5 @@
 ## INFOMATION!
-  - 💁‍♂️I'm A **Discord Bot** `Scripter`, *A Designer!*
+  - 💁‍♂️I'm A **Discord Bot** `Scripter`
   - My Currently Discord Bot Project Is **Boy Bot**!
   - I Wanna Make A **Music Bot** With All Platform Support!
 ## Invite Bot!
