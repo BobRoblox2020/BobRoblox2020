@@ -3,4 +3,4 @@
   - My Currently Discord Bot Project Is **Boy Bot**!
   - I Wanna Make A **Music Bot** With All Platform Support!
 ## Invite Bot!
-  - Still in development
+  - [Boy Bot](https://top.gg/bot/931158101959274546/vote)
